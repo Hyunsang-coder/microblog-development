@@ -1,0 +1,4 @@
+Flask==2.2.2
+Pymongo==4.3.3
+gunicorn
+
